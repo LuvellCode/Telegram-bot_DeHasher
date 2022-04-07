@@ -493,7 +493,7 @@ class SQL:
             print(e)
 
 
-bot = telebot.TeleBot('1102847595:AAH_f5LO9pjQeB8WEOvPPqg4SCNwJUPJeRM')
+bot = telebot.TeleBot('API TOKEN REMOVED')
 wlist = WLister()
 
 logger = telebot.logger
